@@ -42,10 +42,9 @@
   
 - **Fifth Week**
 
-- [Engineering_the_Innovative_Mind.pptx](https://github.com/user-attachments/files/34886073/Engineering_the_Innovative_Mind.pptx)
+    - [Engineering_the_Innovative_Mind.pptx](https://github.com/user-attachments/files/34886073/Engineering_the_Innovative_Mind.pptx)
 
-
-- [Engineering_the_Innovative_Mind.pdf](https://github.com/user-attachments/files/34886109/Engineering_the_Innovative_Mind.pdf)
+    - [Engineering_the_Innovative_Mind.pdf](https://github.com/user-attachments/files/34886109/Engineering_the_Innovative_Mind.pdf)
 
 - **Sexth Week**
 - **Seventh Week**
