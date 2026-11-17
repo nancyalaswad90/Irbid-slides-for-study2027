@@ -48,6 +48,8 @@
 
 - **Sexth Week**
 
+[الاسبوع_السادس.pptx](https://github.com/user-attachments/files/34994290/_.pptx)
+[الاسبوع_السادس.pdf](https://github.com/user-attachments/files/34994286/_.pdf)
 
   
 - **Seventh Week**
